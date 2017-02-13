@@ -13,7 +13,8 @@ as example
 ```
 D: with  browser with address  bar http:localhost:82/
 ```
-and so on  
+and so on
+#Steps for changing conf file:  
 step 1-----Go to this path is windows "C:/xampp/apache" replace the conf folder with this conf folder.  
 step 2-----In the browser address bar -- to use  c:/xampp/htdocs   type "http://localhost/" or '"http://localhost:80"   and -- to use d:/ type "http://localhost:82/"  
 
