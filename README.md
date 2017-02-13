@@ -10,9 +10,7 @@ and you can use this with
 #main usage:
 you can use  any drive from windows os as htdocs directory for xampp server 
 as example  
-```
-D: with  browser with address  bar http:localhost:82/
-```
+D: with  browser with address  bar `http:localhost:82/`
 and so on
 #Steps for changing conf file:  
 step 1-----Go to this path is windows 
