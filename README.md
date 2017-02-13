@@ -1,9 +1,10 @@
-Usage :: This folder is a part of xampp
+#Usage :: This folder is a part of xampp
 and you can use this with 
 
-1 OS --- Windows 
-2 php -- PHP5.*
-3 Db  --- Mysql, mariadb
+1 OS --- Windows  
+2 php -- PHP5.*  
+3 Db  --- Mysql, mariadb  
+
 
 
 main usage:
